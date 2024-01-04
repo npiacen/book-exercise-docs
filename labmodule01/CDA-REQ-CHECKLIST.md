@@ -4,7 +4,7 @@
 
 ### REQUIRED for Connected Devices Course
 
-- [ ] [PIOT-CFG-01-001](https://github.com/programming-the-iot/book-exercise-tasks/issues/162)
+- [X] [PIOT-CFG-01-001](https://github.com/programming-the-iot/book-exercise-tasks/issues/162)
 - [ ] [PIOT-CDA-01-001](https://github.com/programming-the-iot/book-exercise-tasks/issues/16)
 
 ### RECOMMENDED as part of this Lab Module (described in later Lab Modules)
